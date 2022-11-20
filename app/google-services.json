@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "303047666643",
+    "firebase_url": "https://simplecrud-firebase-mobileapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "simplecrud-firebase-mobileapp",
+    "storage_bucket": "simplecrud-firebase-mobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303047666643:android:d8939dbf869ae2381d5d26",
+        "android_client_info": {
+          "package_name": "shadowspy.developement.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303047666643-gpelais4b25rm0ir0kclml8d2h1i99b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLM3Yujl2hnHpj9pk3g7NQEUzAC1daZdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303047666643-gpelais4b25rm0ir0kclml8d2h1i99b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303047666643:android:78704fee749757511d5d26",
+        "android_client_info": {
+          "package_name": "shadowspy.developement.simplecrudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303047666643-gpelais4b25rm0ir0kclml8d2h1i99b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLM3Yujl2hnHpj9pk3g7NQEUzAC1daZdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303047666643-gpelais4b25rm0ir0kclml8d2h1i99b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
